@@ -1,0 +1,17 @@
+{
+  "name": "gitbook-plugin-blueprint-tour",
+  "version": "1.0.0",
+  "description": "Gitbook plugin to display an interactive tour of a Brooklyn blueprint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "gitbook": ">3.0.0"
+  },
+  "author": "Thomas Bouron",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "gitbook-markdown": "^2.0.1"
+  }
+}
